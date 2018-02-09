@@ -1,0 +1,6 @@
+#UUID (Universal Unique Identifier)
+http://searchmicroservices.techtarget.com/definition/UUID-Universal-Unique-Identifier
+https://en.wikipedia.org/wiki/Universally_unique_identifier
+
+#online UUID generator
+https://www.uuidgenerator.net/
