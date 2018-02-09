@@ -1,0 +1,2 @@
+#Smart Bluetooth: GATT Vs. ATT - what are the differences between them?
+https://stackoverflow.com/questions/28793182/smart-bluetooth-gatt-vs-att-what-are-the-differences-between-them
