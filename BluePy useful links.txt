@@ -1,0 +1,8 @@
+#Five Essential Tools for Every Bluetooth Low Energy Developer
+https://blog.bluetooth.com/five-essential-tools-for-every-bluetooth-low-energy-developer
+
+#Using Python to Control BLE
+http://shawnhymel.com/665/using-python-and-ble-to-receive-data-from-the-rfduino/
+
+#Python interface to Bluetooth Low Energy devices with BlueZ
+https://github.com/markrages/ble
